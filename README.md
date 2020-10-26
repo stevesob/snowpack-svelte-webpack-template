@@ -22,7 +22,7 @@ See the section about running tests for more information.
 Builds a static copy of your site to the `build/` folder.
 Your app is ready to be deployed!
 
-Note: The follow has been added to this template, basically to add minification.
+Note: Webpack has been added to this template, basically to add minification.
 
 **For the best production performance:** Add a build bundler plugin like "@snowpack/plugin-webpack" or "@snowpack/plugin-parcel" to your `snowpack.config.json` config file.
 
